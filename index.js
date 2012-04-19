@@ -1,0 +1,1 @@
+exports.clone = require('./lib/clone');

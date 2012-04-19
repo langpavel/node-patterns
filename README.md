@@ -1,4 +1,8 @@
-node-patterns
-=============
+# patterns
+Design Patterns for Node and javascript
 
-Javascript design patterns for Node
+## Installation
+```
+npm install patterns
+```
+

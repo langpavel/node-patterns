@@ -1,0 +1,32 @@
+{
+  "name": "patterns",
+  "version": "0.0.1",
+  "description": "Design Patterns for Node and javascript",
+   "tags": [
+    "design",
+    "patterns",
+    "clone"
+  ],
+  "author": "Pavel Lang <langpavel@phpskelet.org> (https://github.com/langpavel)",
+  "homepage": "https://github.com/langpavel/node-patterns",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/langpavel/node-patterns.git"
+  },
+  "bugs": {
+    "url": "https://github.com/langpavel/node-patterns/issues"
+  },
+  "scripts": {
+    "test": "./node_modules/nodeunit/bin/nodeunit ./tests/"
+  },
+  "dependencies": {
+    "clone": "*"
+  },
+  "devDependencies": {
+    "nodeunit": "*"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
