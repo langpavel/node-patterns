@@ -3,6 +3,6 @@ Design Patterns for Node and javascript
 
 ## Installation
 ```
-npm install patterns
+npm install design-patterns
 ```
 
